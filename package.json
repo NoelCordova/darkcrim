@@ -4,6 +4,11 @@
     "description": "Theme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "slingercode",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NoelCordova/darkcrim"
+    },
     "engines": {
         "vscode": "^1.26.0"
     },
