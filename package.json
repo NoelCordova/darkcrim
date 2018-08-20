@@ -1,0 +1,22 @@
+{
+    "name": "darkcrim",
+    "displayName": "Darkcrim",
+    "description": "Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "slingercode",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkcrim",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkcrim-color-theme.json"
+            }
+        ]
+    }
+}
