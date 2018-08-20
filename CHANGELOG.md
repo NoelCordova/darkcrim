@@ -5,3 +5,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 - Initial release
+
+## [0.1.0] - 2018-08-20
+### Added
+- New visual for the editor section.
+- New visual for the side bar section.
+- New visual for the activity bar section.

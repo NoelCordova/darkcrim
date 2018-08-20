@@ -2,10 +2,28 @@
 	"name": "Darkcrim",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#b91a0b",
-		"sideBarTitle.foreground": "#bbbbbb"
+		// editor
+		"editor.background": "#1b1b1e",
+		"editor.foreground": "#edf2f4",
+		"editorLineNumber.foreground": "#a9bcd0",
+		"editorLineNumber.activeForeground": "#ef233c",
+		"editorCursor.foreground": "#D8DBE2",
+		"editor.selectionBackground": "#50514F",
+		"editorGroupHeader.tabsBackground": "#1b1b1e",
+
+		// side bar
+		"sideBar.background": "#1b1b1e",
+		"sideBar.foreground": "#edf2f4",
+
+		// activity bar
+		"activityBar.background": "#211e2d",
+		"activityBar.foreground": "#fffdb5",
+		"activityBar.border": "#333533",
+		"activityBarBadge.background": "#ef233c",
+		"breadcrumb.activeSelectionForeground": "#a9bcd0"
+
+		// tab
+		// "tab.activeBackground": "#ff0000"
 	},
 	"tokenColors": [
 		{
